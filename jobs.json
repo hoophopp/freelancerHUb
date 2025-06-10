@@ -1,0 +1,18 @@
+[
+  {
+    "id": 101,
+    "title": "Build a portfolio website",
+    "description": "Need a responsive personal portfolio built with React.",
+    "clientId": 2,
+    "budget": 200,
+    "status": "open"
+  },
+  {
+    "id": 102,
+    "title": "Fix bugs in Node.js API",
+    "description": "API returns 500 error, need debugging and cleanup.",
+    "clientId": 2,
+    "budget": 100,
+    "status": "open"
+  }
+]

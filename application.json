@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1001,
+    "jobId": 101,
+    "freelancerId": 1,
+    "coverLetter": "Hey! I’m confident I can deliver this in 3 days.",
+    "status": "pending"
+  },
+  {
+    "id": 1002,
+    "jobId": 102,
+    "freelancerId": 1,
+    "coverLetter": "I've worked with Express & MongoDB, ready to fix it.",
+    "status": "pending"
+  }
+]

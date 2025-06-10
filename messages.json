@@ -1,0 +1,26 @@
+[
+  {
+    "id": 5001,
+    "fromUserId": 1,
+    "toUserId": 2,
+    "jobId": 101,
+    "content": "Hi! I'm interested in your portfolio project. Can we talk more?",
+    "timestamp": "2025-06-10T12:30:00Z"
+  },
+  {
+    "id": 5002,
+    "fromUserId": 2,
+    "toUserId": 1,
+    "jobId": 101,
+    "content": "Hey Nermine! Sure, let's discuss your timeline and pricing.",
+    "timestamp": "2025-06-10T12:45:00Z"
+  },
+  {
+    "id": 5003,
+    "fromUserId": 1,
+    "toUserId": 2,
+    "jobId": 102,
+    "content": "Just submitted my application for the API bug fix!",
+    "timestamp": "2025-06-10T13:00:00Z"
+  }
+]
