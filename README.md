@@ -39,3 +39,35 @@ This project is built using **Node.js**, **Express**, and **MongoDB**, and it’
 
 ## 📁 Project Structure
 
+│
+├── controllers/ # Logic for routes (auth, jobs, users, etc.)
+│ ├── authController.js
+│ ├── userController.js
+│ ├── jobController.js
+│ ├── applicationController.js
+│ └── messageController.js
+│
+├── data
+│ ├── User.json
+│ ├── Job.json
+│ ├── Application.json
+│ └── Message.json
+│
+├── routes/ # API route definitions
+│ ├── authRoutes.js
+│ ├── userRoutes.js
+│ ├── jobRoutes.js
+│ ├── applicationRoutes.js
+│ └── messageRoutes.js
+│
+├── middleware/ # Auth & error handling
+│ ├── authMiddleware.js
+│ └── errorHandler.js
+│
+├── utils/ # Utility functions
+│ └── storage.js # Local or cloud file storage utilities
+│
+├── config.js # Configuration (DB, env)
+├── app.js # Express app setup
+├── server.js # Starts the server
+└── package.json # With "type": "module"
